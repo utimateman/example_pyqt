@@ -1,0 +1,7 @@
+Instruction
+
+Install PyQt:
+https://pythonbasics.org/install-pyqt/#:~:text=First%20use%20the%20installer%20from,required%20packages%20with%20the%20installer.
+
+Download QtDesigner:
+https://build-system.fman.io/qt-designer-download
