@@ -13,12 +13,12 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QLabel" name="label">
+  <widget class="QLabel" name="food_name_label">
    <property name="geometry">
     <rect>
-     <x>180</x>
-     <y>120</y>
-     <width>311</width>
+     <x>10</x>
+     <y>130</y>
+     <width>621</width>
      <height>91</height>
     </rect>
    </property>
@@ -27,15 +27,21 @@
      <pointsize>48</pointsize>
     </font>
    </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
    <property name="text">
-    <string>Main Page</string>
+    <string>[ FOOD NAME ]</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
    </property>
   </widget>
   <widget class="QPushButton" name="record_button">
    <property name="geometry">
     <rect>
      <x>260</x>
-     <y>290</y>
+     <y>270</y>
      <width>111</width>
      <height>61</height>
     </rect>
