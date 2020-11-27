@@ -21,18 +21,18 @@ It provides some example on how to build project using PyQt5 to integrated with 
 > Please feel free to contact me if any of my content is inappropriate or in a wrong format of referencing. 
 
 <b>Document</b>  
-* https://www.tutorialspoint.com/pyqt/index.htm
-* https://www.learnpyqt.com/  
-* https://stackoverflow.com/questions/56867107/how-to-make-a-multi-page-application-in-pyqt5 (special thanks for @eyllanesc)  
+* [tutorialspoint](https://www.tutorialspoint.com/pyqt/index.htm)
+* [learnpyqt](https://www.learnpyqt.com/)
+* [stackoverflow - multipage application with pyqt5](https://stackoverflow.com/questions/56867107/how-to-make-a-multi-page-application-in-pyqt5 (special thanks for @eyllanesc))  
 
 <b>Youtube</b>  
 
-* <b>sentdex</b> - https://www.youtube.com/watch?v=JBME1ZyHiP8&list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4&ab_channel=sentdex
-* <b>Tech With Tim</b> - https://www.youtube.com/watch?v=Vde5SH8e1OQ&list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj&ab_channel=TechWithTim
-* <b>Code First</b> - https://www.youtube.com/c/CodeFirstio/playlists 
-* <b>Wanderson</b> - https://www.youtube.com/c/WandersonIsMe/playlists
-* <b>KongRuksiam Official (TH)</b> - https://www.youtube.com/watch?v=FjFT7iS5usI&list=PLltVQYLz1BMCsJDDj7jj3Ea0vGVOCv4Nr&ab_channel=KongRuksiamOfficial
-* <b>PyShine (OpenCV)</b> - https://www.youtube.com/watch?v=DLJM7o0B8zk&ab_channel=PyShine
-* <b>GUI Decoration</b> - https://www.youtube.com/watch?v=9-BAOnPjczM&ab_channel=Wanderson
+* [sentdex](https://www.youtube.com/watch?v=JBME1ZyHiP8&list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4&ab_channel=sentdex)
+* [Tech With Tim](https://www.youtube.com/watch?v=Vde5SH8e1OQ&list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj&ab_channel=TechWithTim)
+* [Code First](https://www.youtube.com/c/CodeFirstio/playlist)
+* [Wanderson](https://www.youtube.com/c/WandersonIsMe/playlists)
+* [KongRuksiam Official (TH)](https://www.youtube.com/watch?v=FjFT7iS5usI&list=PLltVQYLz1BMCsJDDj7jj3Ea0vGVOCv4Nr&ab_channel=KongRuksiamOfficial)
+* [PyShine (OpenCV)](https://www.youtube.com/watch?v=DLJM7o0B8zk&ab_channel=PyShine)
+* [GUI Decoration](https://www.youtube.com/watch?v=9-BAOnPjczM&ab_channel=Wanderson)
 
 
